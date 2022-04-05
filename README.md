@@ -26,6 +26,8 @@ https://documentation.meraki.com/General_Administration/Other_Topics/Cisco_Merak
 
 Install python 3.6 or later
 
+Clone this repository
+
 Add credentials to the credentials.py script
 
 Set up and activate a virtual environment (https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
@@ -63,8 +65,6 @@ python3 main_collector.py
 
 The code should generate two .csv files (response1.csv and response2.cvs) in the same project folder. 
 The files will contain information similar to this:
-
-# Screenshots
 
 ![/IMAGES/image1.png](/IMAGES/image1.png)
 
